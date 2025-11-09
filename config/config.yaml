@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"，默认daily
+  mode: "current" # 可选: "daily"|"incremental"|"current"，默认daily
   rank_threshold: 7 # 排名高亮阈值，默认5
 
 notification:
